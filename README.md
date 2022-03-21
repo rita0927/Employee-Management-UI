@@ -1,27 +1,10 @@
-# EmpUi
+# Employee-Management-UI-Design
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.0.
 
-## Development server
+![Web 1920 – 1](https://user-images.githubusercontent.com/83844510/159210155-e7741d56-2ea6-4f4a-8565-3d33a9ea0ed0.png)
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+# Employee-Management-UI
 
-## Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+![1](https://user-images.githubusercontent.com/83844510/159204254-3624ffcc-ca9d-4423-b83a-76bb7d670076.png)
+![3](https://user-images.githubusercontent.com/83844510/159204382-8abe8d14-3a4f-4b38-8477-03d0890d46a2.png)
+![2](https://user-images.githubusercontent.com/83844510/159204363-6356b92b-939a-4b30-bc46-7b18b57504d1.png)
